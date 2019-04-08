@@ -13,3 +13,4 @@ ident(t)
 csystems = [ t ]
 
 parse_file( 'script', edges, polygons, csystems, screen, color )
+#parse_file( 'test', edges, polygons, csystems, screen, color)
